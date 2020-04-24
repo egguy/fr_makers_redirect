@@ -3,9 +3,17 @@
         "url": "https://prod.visieresolidaire-rhonealpes.fr/jai-besoin",
         "name": "Visiere Solidaire - Covid19 - Région Rhône Alpes"
     },
+    "05": {
+        "url": "http://maker05.org/",
+        "name": "Les Makers Hauts Alpins"
+    },
     "07": {
         "url": "https://www.visieres-solidaire-26.fr/requesters/register/",
         "name": "Visieres Solidaire 26"
+    },
+    "21": {
+        "url": "https://visieresolidaire21.make3dinfo.fr/",
+        "name": "Visiere Solidaire - COVID 19 - Côte D'Or 21"
     },
     "26": {
         "url": "https://www.visieres-solidaire-26.fr/requesters/register/",
